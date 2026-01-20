@@ -20,6 +20,7 @@ Based on these values, the app instantly predicts the iris species using a train
 • Features: 4 numerical attributes
 
 ⚙️ Model Development
+
 • Data cleaning and normalization
 • Train-test split
 • Model training using Scikit-learn (Logistic Regression / SVM / Random Forest)

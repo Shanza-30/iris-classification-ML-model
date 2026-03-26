@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Species Prediction – ML Web App with Streamlit
 
-This project is a **Machine Learning–based web application** built using **Streamlit** that predicts the species of iris flowers — **Setosa, Versicolor, or Virginica** — based on sepal and petal measurements.  
+This project 2 is a softgrowtech **Machine Learning–based web application** built using **Streamlit** that predicts the species of iris flowers — **Setosa, Versicolor, or Virginica** — based on sepal and petal measurements.  
 It demonstrates a complete **end-to-end ML workflow**, from data preprocessing and model training to deployment as an interactive web application.
 
 
